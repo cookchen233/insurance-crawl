@@ -20,7 +20,7 @@ class ShenlanbaoSpider(scrapy.Spider):
     }
 
     headers =  '''
-cookie: token=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI1MjM2QSIsInN1YiI6IntcImNyZWF0ZV90aW1lXCI6MTU5NDM0OTk0NzAwMCxcImlkXCI6XCIxMjAwNzEwMTA1OTA3MjAxMDFcIixcImxvZ2luX3RpbWVcIjoxNTk0NjEwMDk3MDI0LFwib3BlbmlkXCI6XCJvUXhjTjVHZnpJbVh1d0xfVHQzWjF2WHZhOVh3XCIsXCJ1bmlvbmlkXCI6XCJcIn0iLCJpYXQiOjE1OTQ2MTAwOTcsImV4cCI6MTU5NDg2OTI5N30.2EoHPlUJlgtgGLZq_J5pS2_vJ2Z35-jAg_G43mp2i-E
+cookie: .2EoHPlUJlgtgGLZq_J5pS2_vJ2Z35-jAg_G43mp2i-E
 accept: */*
 content-type: application/json
 accept-encoding: br, gzip, deflate
