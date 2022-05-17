@@ -19,7 +19,6 @@ class DuobaoyuCidianSpider(scrapy.Spider):
 content-type: application/json
 user-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57 MicroMessenger/7.0.5(0x17000523) NetType/WIFI Language/zh_CN
 referer: https://servicewechat.com/wx104a3cbd28a38968/15/page-frame.html
-token: wx-f25c31bc-5ef7-42b5-8c4e-91fd5fb59226
 accept-language: zh-cn
 x-ca-stage: RELEASE
 accept-encoding: br, gzip, deflate
